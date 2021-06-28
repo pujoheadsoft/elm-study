@@ -1,0 +1,13 @@
+cabal.sandbox.config
+dist
+log
+node_modules
+package-lock.json
+
+artifacts
+elm-stuff
+
+all-packages.json
+packages
+search.json.gz
+sitemap.xml
